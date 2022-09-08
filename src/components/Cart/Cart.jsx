@@ -22,7 +22,7 @@ const Cart = (props) => {
 
   const orderHandler = () => {
     setIsCheckout(true);
-    
+  };
 
   const cartItems = (
     <ul className="list-none m-0 p-0 max-h-[16rem] overflow-auto">
@@ -71,5 +71,4 @@ const Cart = (props) => {
   );
 };
 
-  export default Cart:
-  
+export default Cart;
