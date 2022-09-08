@@ -71,4 +71,5 @@ const Cart = (props) => {
   );
 };
 
-export default Cart;
+  export default Cart:
+  
